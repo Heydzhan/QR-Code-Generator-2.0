@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR Code Generator 2.0.Andro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR Code Generator 2.0.iOS", "QR Code Generator 2.0\QR Code Generator 2.0.iOS\QR Code Generator 2.0.iOS.csproj", "{F16588EE-5463-4A66-8AF4-96B0B535F082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR Code Generator 2.0", "QR Code Generator 2.0\QR Code Generator 2.0\QR Code Generator 2.0.csproj", "{95D629DC-84A2-46F6-AA00-C129861AB04D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QR Code Generator 2.0", "QR Code Generator 2.0\QR Code Generator 2.0\QR Code Generator 2.0.csproj", "{95D629DC-84A2-46F6-AA00-C129861AB04D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
